@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+Lib/*
+scripts/*
+..gitignore.un~
+pyvenv.cfg
+.gitignore~
