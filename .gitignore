@@ -4,3 +4,4 @@ scripts/*
 ..gitignore.un~
 pyvenv.cfg
 .gitignore~
+excel_word.txt
