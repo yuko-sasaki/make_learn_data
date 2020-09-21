@@ -6,3 +6,6 @@ GROUP_SHEET = "特例子会社のグループ認定制度"
 COM_HOUSE_SHEET = "社宅関連"
 SHEET_NAMES = [BS_SHEET, PL_SHEET, TAX_LATE_SHEET, GROUP_SHEET, COM_HOUSE_SHEET]
 N_INCLUDE_WORD = 860
+SELECT_DATA_PATH = "../wiki_sentences_860.pickle"
+SEPARATOR = "。"
+TRAIN_DATA_PATH = "../train_data_860.pickle"
