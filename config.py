@@ -9,3 +9,4 @@ N_INCLUDE_WORD = 860
 SELECT_DATA_PATH = "../wiki_sentences_860.pickle"
 SEPARATOR = "。"
 TRAIN_DATA_PATH = "../train_data_860.pickle"
+WORDS_BAG_PATH = "../words_bag_860.pickle"
